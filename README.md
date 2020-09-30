@@ -2,7 +2,7 @@
 
 [![Join the chat at https://www.gitter.im/AimTuxOfficial/lobby](https://img.shields.io/gitter/room/TechnologyAdvice/Stardust.svg?style=flat-square)](https://www.gitter.im/AimTuxOfficial/lobby)
 
-Want to chat or play with other AimTux users? Join us on Gitter!
+Want to chat or play with other AimTux users? Join us on Gitter! great Explation 
 
 ![warning](https://i.imgur.com/TxCC3c4.png) __This hack is detected.__
 
